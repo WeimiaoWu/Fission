@@ -26,10 +26,6 @@ namespace cs427_527
     virtual void makeMove(BaseBoard& board, int toR, int toC) = 0;
 
   protected:
-    // virtual bool isLegalDestination(const BaseBoard& board, int toR, int toC) const;
-    // virtual bool isLegalJump(const BaseBoard& board, int toR, int toC) const = 0;
-    // virtual void jump(BaseBoard& board, int toR, int toC) const = 0;
-    // virtual bool checkPromote(const BaseBoard& board, int toR, int toC) const = 0;
  
 
 
