@@ -14,12 +14,12 @@ $ git clone https://github.com/Weimiaomiao/Fission
 $ cd ./Fission
 ```
 
-**3. Compile **
+**3. Compile**
 ```bash
 $ make
 ```
 
-**4. Example **
+**4. Example**
 ```bash
 $ ./Fission 8 8
 ```
