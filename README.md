@@ -16,10 +16,12 @@ $ cd ./Fission
 
 **3. Compile **
 ```bash
-$  make
+$ make
 ```
 
 **4. Example **
 ```bash
-$./Fission 8 8
+$ ./Fission 8 8
 ```
+
+Enjoy!
