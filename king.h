@@ -35,23 +35,7 @@ namespace cs427_527
     bool isLight() const override;
 
   protected:
-    /**
-     * Returns whether this checker can move backwards.
-     *
-     * @return true if and only if this checker can move backwards
-     */
-    
-
-    /**
-     * Determines if this checker is promoted if moving to the given
-     * location.
-     *
-     * @param board the board this checker is on
-     * @param toR a row on that board
-     * @param toC a column on that board
-     * @return true if this checker is promoted
-     */
-    // bool checkPromote(const BaseBoard& board, int toR, int toC) const override;
+  
 
   };
 }
