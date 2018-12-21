@@ -33,7 +33,5 @@ $ ./Fission 8 8
 PLAYER 0
 ```
 
-**5. Example output**
-
 
 Enjoy!
