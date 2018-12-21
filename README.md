@@ -1,7 +1,7 @@
 # Fission
 Game: American Checkers 
 
-A simple cpp implementation of American Checker, aka, English Draughts. Have Fun!
+A simple cpp implementation of American Checker, aka, English Draughts. Allows for multiple players. Have Fun! 
 
 ## Installation
 **1. Clone the Github repository**
@@ -22,6 +22,15 @@ $ make
 **4. Example**
 ```bash
 $ ./Fission 8 8
+..  ..  ..  ..
+  ..  RRBB..  ..
+..  rrBBRRbb..
+  RRbbRRBBrrBB..
+..BBrrBBRRbbRR
+  ..bbRRBBrr  ..
+..  ..BBRR  ..
+  ..  ..  ..  ..
+PLAYER 0
 ```
 
 Enjoy!
