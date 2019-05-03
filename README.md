@@ -6,7 +6,7 @@ A simple cpp implementation of American Checker, aka, English Draughts to be pla
 ## Installation
 **1. Clone the Github repository**
 ```bash
-$ git clone https://github.com/Weimiaomiao/Fission
+$ git clone https://github.com/WeimiaoWu/Fission
 ```
 
 **2. Go to the software directory**
