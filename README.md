@@ -31,6 +31,26 @@ $ ./Fission 8 8
 ..  ..BBRR  ..
   ..  ..  ..  ..
 PLAYER 0
+$ 1 3 0 3
+..  ..RR..  ..
+  ..  ..BB..  ..
+..  rrBBRRbb..
+  RRbbRRBBrrBB..
+..BBrrBBRRbbRR
+  ..bbRRBBrr  ..
+..  ..BBRR  ..
+  ..  ..  ..  ..
+PLAYER 1
+$ 4 1 4 0
+..  ..RR..  ..
+  ..  ..BB..  ..
+..  rrBBRRbb..
+  RRbbRRBBrrBB..
+BB  rrBBRRbbRR
+  ..bbRRBBrr  ..
+..  ..BBRR  ..
+  ..  ..  ..  ..
+PLAYER 0
 ```
 
 
